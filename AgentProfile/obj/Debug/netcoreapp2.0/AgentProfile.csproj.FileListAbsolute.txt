@@ -1,0 +1,11 @@
+E:\ProgrammingSource\Visual Studio\AgentProfile\AgentProfile\bin\Debug\netcoreapp2.0\AgentProfile.deps.json
+E:\ProgrammingSource\Visual Studio\AgentProfile\AgentProfile\bin\Debug\netcoreapp2.0\AgentProfile.runtimeconfig.json
+E:\ProgrammingSource\Visual Studio\AgentProfile\AgentProfile\bin\Debug\netcoreapp2.0\AgentProfile.runtimeconfig.dev.json
+E:\ProgrammingSource\Visual Studio\AgentProfile\AgentProfile\bin\Debug\netcoreapp2.0\AgentProfile.dll
+E:\ProgrammingSource\Visual Studio\AgentProfile\AgentProfile\bin\Debug\netcoreapp2.0\AgentProfile.pdb
+E:\ProgrammingSource\Visual Studio\AgentProfile\AgentProfile\obj\Debug\netcoreapp2.0\AgentProfile.csprojResolveAssemblyReference.cache
+E:\ProgrammingSource\Visual Studio\AgentProfile\AgentProfile\obj\Debug\netcoreapp2.0\AgentProfile.csproj.CoreCompileInputs.cache
+E:\ProgrammingSource\Visual Studio\AgentProfile\AgentProfile\obj\Debug\netcoreapp2.0\AgentProfile.AssemblyInfoInputs.cache
+E:\ProgrammingSource\Visual Studio\AgentProfile\AgentProfile\obj\Debug\netcoreapp2.0\AgentProfile.AssemblyInfo.cs
+E:\ProgrammingSource\Visual Studio\AgentProfile\AgentProfile\obj\Debug\netcoreapp2.0\AgentProfile.dll
+E:\ProgrammingSource\Visual Studio\AgentProfile\AgentProfile\obj\Debug\netcoreapp2.0\AgentProfile.pdb
